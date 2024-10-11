@@ -8,6 +8,7 @@
 body{
     margin: 0;
     font-family: "Roboto", sans-serif;
+    background-color: black;
 }
 
 .navbar{
@@ -92,13 +93,14 @@ section h2{
     padding-top: 0;
     font-family:"Lobster", sans-serif;
     font-weight: bold;
-    color: #180f4A;
+    color: white;
 
 }
 
 .articles h3{
     margin-top: 10px;
     margin-bottom: 5px;
+    color: white;
 }
 
 .articles{  
@@ -106,7 +108,7 @@ section h2{
     flex-wrap: wrap;
     justify-content: space-between;
     padding-top: 8px; 
-    
+    background-color: white;
     
 }
 
